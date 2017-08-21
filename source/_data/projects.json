@@ -1,0 +1,32 @@
+[
+    {
+       "name":"alarmist",
+       "url":"https://www.npmjs.com/package/alarmist",
+       "desc":"Run and monitor parallel jobs from the command line"
+    },
+    {
+       "name":"forgiven",
+       "url":"https://www.npmjs.com/package/forgiven",
+       "desc":"Extensible given/when/then and more for test frameworks"
+    },
+    {
+       "name":"serialport-server",
+       "url":"https://www.npmjs.com/package/serialport-server",
+       "desc":"Expose serial ports over HTTP"
+    },
+    {
+       "name":"redux-duckling",
+       "url":"https://www.npmjs.com/package/redux-duckling",
+       "desc":"Composable Redux component library framework"
+    },
+    {
+       "name":"scp1",
+       "url":"https://www.npmjs.com/package/scp1",
+       "desc":"A pure NodeJS SCP implementation (not SFTP!)"
+    },
+    {
+       "name":"grunt-mocha-test",
+       "url":"https://www.npmjs.com/package/grunt-mocha-test",
+       "desc":"A grunt task for running server side mocha tests"
+    }
+]
